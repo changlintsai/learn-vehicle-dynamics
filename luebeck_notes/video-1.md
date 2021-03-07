@@ -2,5 +2,9 @@
 
 ## Video 1
 
-- the forward kinamatics
+- Kinematics
+the discription of motion in space
+
+- Kinetics
+the lowa of the causes of motion
 
