@@ -6,7 +6,6 @@
 the discription of motion in space
 
 - Kinetics
-the lowa of the causes of motion
+the laws of the causes of motion
 
-$ F=ma $
 $F=ma$
